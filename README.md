@@ -1,5 +1,5 @@
 # Multi-Client Chat Application
-This is a Java chat application that uses socket programming to connect multiple clients to a single host located at any machine on a Local Area Network (LAN) and allows them to chat both altogether
+This is a Java chat application that uses socket programming to connect multiple clients to a single host located at any machine on a Local Area Network (LAN) and allows them to chat in the group.
 
 ## How to Run
 1. Clone or download this repository.
